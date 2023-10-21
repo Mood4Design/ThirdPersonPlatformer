@@ -1,0 +1,5 @@
+Time	Position	Teleporter
+523.34	(-2.32, 9.47, 184.90)	Teleporter Scene 03
+523.34	(-2.32, 9.47, 184.90)	Teleporter Scene 03
+523.4	(-2.32, 9.47, 184.90)	Teleporter Scene 03
+523.4	(-2.32, 9.47, 184.90)	Teleporter Scene 03

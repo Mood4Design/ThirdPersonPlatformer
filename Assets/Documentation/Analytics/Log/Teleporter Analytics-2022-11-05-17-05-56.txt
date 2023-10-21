@@ -1,0 +1,5 @@
+Time	Position	Teleporter
+194.24	(-2.32, 9.30, 124.70)	Teleporter Scene 02
+194.24	(-2.32, 9.30, 124.70)	Teleporter Scene 02
+194.3	(-2.32, 9.30, 124.70)	Teleporter Scene 02
+194.32	(-2.32, 9.30, 124.70)	Teleporter Scene 02

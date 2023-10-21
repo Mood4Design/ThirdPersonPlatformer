@@ -1,0 +1,5 @@
+Time	Position	Cause of Death
+145.52	(-2.54, 2.98, -9.92)	Death Zone 2
+145.52	(-2.54, 2.98, -9.92)	Death Zone 2
+145.54	(-2.54, 2.77, -9.82)	Death Zone 2
+145.54	(-2.54, 2.77, -9.82)	Death Zone 2
